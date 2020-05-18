@@ -4,7 +4,9 @@ This little game was created during a Flutter hackathon from the [GDG Hannover f
 
 ## Installing
 
-The game is available on [Google Play](https://play.google.com/store) (_TBD_) or you can download .apk files in the [GitHub Releases tab](https://github.com/mirajago/pande_me/releases).
+The game is available on [App Store](https://www.apple.com/ios/app-store/) (_TBD_), [Google Play](https://play.google.com/store) (_TBD_) and you can download .ipa/.apk files in the [GitHub Releases tab](https://github.com/mirajago/pande_me/releases) directly.
+
+There might come a web version later too.
 
 ## Contributing
 
