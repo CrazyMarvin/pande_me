@@ -1,4 +1,4 @@
-##Purpose
+## Purpose
 
 A primary goal of all the conferences and user groups that refer to this Code of Conduct is to be inclusive to the largest number of contributors, with the most varied and diverse backgrounds possible. As such, we are committed to providing a friendly, safe and welcoming environment for all, regardless of gender, sexual orientation, ability, ethnicity, socioeconomic status and religion (or lack thereof).
 
@@ -6,7 +6,7 @@ This Code of Conduct outlines our expectations for all those who participate in 
 
 We invite all those who participate in our events to help us create safe and positive experiences for everyone.
 
-##Open [Source/Culture/Tech] Citizenship
+## Open [Source/Culture/Tech] Citizenship
 
 A supplemental goal of this Code of Conduct is to increase open [source/culture/tech] citizenship by encouraging participants to recognize and strengthen the relationships between our actions and their effects on our community.
 
@@ -14,7 +14,7 @@ Communities mirror the societies in which they exist and positive action is esse
 
 If you see someone who is making an extra effort to ensure our community is welcoming, friendly, and encourages all participants to contribute to the fullest extent, we want to know.
 
-##Expected Behavior
+## Expected Behavior
 
 * Participate in an authentic and active way. In doing so, you contribute to the health and longevity of this community.
 * Exercise consideration and respect in your speech and actions.
