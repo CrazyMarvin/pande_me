@@ -8,6 +8,10 @@ The game is available on [App Store](https://www.apple.com/ios/app-store/) (_TBD
 
 There might come a web version later too.
 
+## Usage
+
+_TBD_ (How to play & screenshots)
+
 ## Contributing
 
 Contributions are very welcome. Feel more than free to join us on [Meetup](https://www.meetup.com/en-US/Hannover-Mobile-Development-Meetup) too.
